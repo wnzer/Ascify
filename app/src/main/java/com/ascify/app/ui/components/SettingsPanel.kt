@@ -1,7 +1,4 @@
-import androidx.compose.ui.draw.clip
 package com.ascify.app.ui.components
-
-import androidx.compose.ui.draw.clip
 
 import androidx.compose.foundation.*
 import androidx.compose.foundation.layout.*
