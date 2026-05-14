@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ascify</string>
+    <string name="camera_permission_rationale">Ascify needs camera access to capture and render ASCII art</string>
+    <string name="audio_permission_rationale">Audio recording is needed for video capture</string>
+    <string name="storage_permission_rationale">Storage access is needed to save your ASCII art photos and videos</string>
+    <string name="lens_main">Main</string>
+    <string name="lens_ultrawide">Ultra</string>
+    <string name="lens_telephoto">Tele</string>
+    <string name="lens_selfie">Selfie</string>
+    <string name="mode_photo">PHOTO</string>
+    <string name="mode_video">VIDEO</string>
+    <string name="flash_off">Flash Off</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_auto">Flash Auto</string>
+    <string name="settings">Settings</string>
+    <string name="ascii_density">ASCII Density</string>
+    <string name="character_set">Character Set</string>
+    <string name="color_palette">Color Palette</string>
+    <string name="export_format">Export Format</string>
+    <string name="charset_classic">Classic ASCII</string>
+    <string name="charset_blocks">Blocks</string>
+    <string name="charset_braille">Braille</string>
+    <string name="charset_minimal">Minimal</string>
+    <string name="palette_rgb">Full RGB</string>
+    <string name="palette_green">Green Terminal</string>
+    <string name="palette_amber">Amber CRT</string>
+    <string name="palette_grayscale">Grayscale</string>
+    <string name="palette_matrix">Matrix</string>
+    <string name="export_png">PNG</string>
+    <string name="export_jpg">JPG</string>
+    <string name="save_original">Save Original Frame</string>
+    <string name="edge_enhancement">Edge Enhancement</string>
+    <string name="night_mode">Night Mode Tuning</string>
+    <string name="adaptive_rendering">Adaptive Rendering</string>
+    <string name="photo_saved">Photo saved to gallery</string>
+    <string name="video_saved">Video saved to gallery</string>
+    <string name="recording">REC</string>
+</resources>
